@@ -5,7 +5,7 @@
     $db = 'db_registros';*/
     $host = 'mysql-katherin.alwaysdata.net';
     $user = 'katherin';
-    $pass = 'Kate@123';
+    $pass = '********';
     $db = 'katherin_registros'; 
     mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
